@@ -1,0 +1,30 @@
+# GNU Emacs keyboard shortcuts
+# One card per line: shortcut,description
+Ctrl+f,Move forward one character
+Ctrl+b,Move backward one character
+Ctrl+n,Move to the next line
+Ctrl+p,Move to the previous line
+Ctrl+a,Move to the beginning of the line
+Ctrl+e,Move to the end of the line
+Ctrl+k,"Kill (cut) from the cursor to the end of the line"
+Alt+<,Move to the beginning of the buffer
+Alt+>,Move to the end of the buffer
+Ctrl+v,Scroll forward one screen
+Alt+v,Scroll backward one screen
+Ctrl+s,Start an incremental search forward
+Alt+%,Start a query replace
+Ctrl+x Ctrl+s,Save the current buffer
+Ctrl+x u,Undo the last change
+Ctrl+g,"Cancel the current command, prompt, or search"
+Ctrl+w,Cut the selected region
+Alt+w,Copy the selected region
+Ctrl+y,"Yank (paste) the last killed text"
+Alt+y,Replace the just-yanked text with older killed text
+Ctrl+Space,"Set the mark to start selecting a region"
+Ctrl+x h,Select the entire buffer
+Ctrl+x C-f,Find a file (open a file)
+Ctrl+x b,Switch to another buffer
+Ctrl+x k,Kill (close) a buffer
+Ctrl+x 2,Split the current window vertically
+Ctrl+x 1,Close all other windows (keep this one)
+Ctrl+x 0,Close the current window

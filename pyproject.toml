@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "shortcut-flashcards"
+version = "0.1.0"
+description = "Daily keyboard-shortcut memory drills in the terminal: built-in decks, CSV decks, spaced repetition, two-minute sessions."
+readme = "README.md"
+requires-python = ">=3.10"
+license = "MIT"
+license-files = ["LICENSE"]
+authors = [{ name = "Asdale Dynamics, LLC" }]
+keywords = ["flashcards", "keyboard-shortcuts", "spaced-repetition", "cli"]
+classifiers = [
+  "Environment :: Console",
+  "Intended Audience :: End Users/Desktop",
+  "Operating System :: OS Independent",
+  "Programming Language :: Python :: 3",
+  "Topic :: Education",
+]
+dependencies = []
+
+[project.scripts]
+shortcut-flashcards = "shortcut_flashcards.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+shortcut_flashcards = ["builtin_decks/*.csv"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"

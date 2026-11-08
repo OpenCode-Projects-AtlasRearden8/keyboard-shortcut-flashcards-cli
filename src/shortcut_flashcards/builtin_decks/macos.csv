@@ -1,0 +1,32 @@
+# macOS keyboard shortcuts
+# One card per line: shortcut,description
+Cmd+C,Copy the selection
+Cmd+X,Cut the selection
+Cmd+V,Paste the clipboard contents
+Cmd+Z,Undo the last action
+Cmd+Shift+Z,Redo the last undone action
+Cmd+A,Select everything in the current window
+Cmd+F,Open a Find dialog or search field
+Cmd+S,Save the current document
+Cmd+Space,Open Spotlight search
+Cmd+Q,Quit the current app
+Cmd+W,Close the active window or tab
+Cmd+T,Open a new tab (in browsers and tabbed apps)
+Cmd+Tab,Cycle to the next open app
+Cmd+Comma,Open preferences/settings for the current app
+Cmd+H,Hide the current app's windows
+Cmd+M,Minimize the active window
+Cmd+P,Print the current document
+Cmd+L,Focus the address or location bar (Safari/Chrome)
+Cmd+Shift+3,"Take a screenshot of the entire screen"
+Cmd+Shift+4,Take a screenshot of a selected screen area
+Cmd+Shift+5,Open the screenshot and screen-recording toolbar
+Cmd+Option+Esc,Force-quit an unresponsive app
+Ctrl+Cmd+Q,Lock the screen
+Ctrl+Cmd+Space,Open the emoji and symbols picker
+Cmd+Delete,"Move the selected item to the Trash"
+Cmd+Shift+Delete,Empty the Trash (with a confirmation)
+Cmd+Bracket Left,Go back in the current app's history
+Cmd+Bracket Right,Go forward in the current app's history
+Cmd+N,"Open a new window or document (app-dependent)"
+Cmd+O,"Open a file (or the selected item)"

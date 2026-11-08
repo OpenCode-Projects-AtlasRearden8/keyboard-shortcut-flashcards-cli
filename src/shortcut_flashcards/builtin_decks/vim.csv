@@ -1,0 +1,38 @@
+# Vim keyboard shortcuts
+# One card per line: shortcut,description
+i,Enter insert mode before the cursor
+a,Enter insert mode after the cursor
+I,Insert at the first non-blank character of the line
+A,Insert at the end of the line
+o,Open a new line below and enter insert mode
+O,"Open a new line above and enter insert mode"
+Esc,Return to normal mode
+dw,Delete from the cursor to the start of the next word
+d$,Delete from the cursor to the end of the line
+dd,Delete (cut) the whole line
+yy,Yank (copy) the whole line
+p,Paste after the cursor
+P,Paste before the cursor
+x,"Delete the character under the cursor"
+cw,Change word (delete the word and start inserting)
+ciw,Change the whole inner word under the cursor
+ci",Change the text inside the surrounding double quotes
+u,Undo the last change
+Ctrl+r,Redo the change that was undone
+gg,Jump to the first line of the file
+G,Jump to the last line of the file
+0,Jump to the start of the line
+$,Jump to the end of the line
+w,Move forward one word
+b,Move backward one word
+fx,Find the next character x on the current line
+/thing,Search forward for 'thing'
+n,Jump to the next search match
+N,Jump to the previous search match
+v,Enter visual mode to select characters
+V,Enter visual mode to select whole lines
+:,Open the command line for ex commands like :w and :q
+:w,Write (save) the file
+:q,Quit the window
+:wq,Write (save) and quit
+ZZ,Write (save) and quit

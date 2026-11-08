@@ -1,0 +1,39 @@
+# Windows keyboard shortcuts
+# One card per line: shortcut,description
+Win,Open or close the Start menu
+Win+A,Open Quick Settings panel
+Win+E,Open File Explorer
+Win+I,Open Settings
+Win+L,Lock the PC
+Win+D,Show or hide the desktop
+Win+R,Open the Run dialog
+Win+S,Open Windows Search
+Win+V,"Open clipboard history (after it is enabled once)"
+Win+X,Open the power-user menu
+Win+P,Choose a presentation/display mode
+Win+Tab,Open Task View
+Win+Left,"Snap the window to the left half of the screen"
+Win+Right,"Snap the window to the right half of the screen"
+Win+Up,"Maximize the window (with snapped or normal windows)"
+Win+Down,Restore or minimize the window
+Win+Period,Open the emoji panel
+Win+Shift+S,Open the Snipping Tool in screenshot mode
+Alt+Tab,"Switch between open apps (hold Alt, tap Tab)"
+Alt+F4,Close the active window or app
+Alt+Left,Go back in an app's history
+Alt+Right,Go forward in an app's history
+Ctrl+C,Copy the selection
+Ctrl+X,Cut the selection
+Ctrl+V,Paste the clipboard contents
+Ctrl+Z,Undo the last action
+Ctrl+Y,Redo the last undone action
+Ctrl+A,Select everything in the current document or window
+Ctrl+F,Find in the current document or window
+Ctrl+S,Save the current document
+Ctrl+Shift+Esc,Open Task Manager directly
+Ctrl+W,Close the current tab (in browsers and most apps)
+Ctrl+T,Open a new tab (in browsers)
+F2,Rename the selected file or folder
+F5,Refresh the active window or file list
+Del,"Move the selection to the Recycle Bin"
+Shift+Del,Permanently delete the selection (no Recycle Bin)

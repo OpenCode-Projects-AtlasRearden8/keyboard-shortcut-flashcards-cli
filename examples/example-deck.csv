@@ -1,0 +1,18 @@
+# Example custom deck: Final Fantasy XIV chat text commands.
+# Format: one card per line -> shortcut,description[,optional note]
+#
+# Loading a deck of your own is this simple:
+#   shortcut-flashcards run examples/example-deck.csv
+/p,Chat with the current party only
+/fc,Chat with your free company
+/sh,Shout across the whole zone
+/y,Yell to nearby areas (wider than say, narrower than shout)
+/s,Chat with players who can hear you
+/e,Send a comment only you can read
+/t NAME TEXT,Send a private tell to NAME
+/r,Reply to the most recent tell
+/em ACTION,Show a customized emote in the logs
+/wave,Wave hello or goodbye to a player
+/sit,Sit down (works during duties too)
+/glisten,Show off with a sparkle emote
+Tab,Start of a /text command autocompletion in the chat box

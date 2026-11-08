@@ -1,0 +1,32 @@
+# Visual Studio Code keyboard shortcuts
+# One card per line: shortcut,description
+Ctrl+P,Quick-open a file by name
+Ctrl+Shift+P,Open the command palette
+Ctrl+B,Toggle the sidebar visibility
+Ctrl+Shift+E,Focus the Explorer view
+Ctrl+`,"Toggle the integrated terminal"
+Ctrl+Shift+`,Open a new integrated terminal
+Ctrl+/,Toggle line comment on the selection
+Ctrl+D,"Select the word at the cursor (tap again for next match)"
+Ctrl+Shift+L,Select all occurrences of the current selection
+Ctrl+Alt+Down,Add a cursor below the current one
+Ctrl+Alt+Up,Add a cursor above the current one
+Ctrl+X,Cut the whole line when nothing is selected
+Ctrl+C,Copy the whole line when nothing is selected
+Alt+Down,Move the current line down
+Alt+Up,Move the current line up
+Shift+Alt+Down,Copy the current line down
+Shift+Alt+Up,Copy the current line up
+Ctrl+Shift+K,Delete the whole line
+Ctrl+G,Go to a line number
+Ctrl+Shift+O,Go to a symbol in the file
+Ctrl+T,Go to a symbol in the workspace
+F2,Rename the symbol under the cursor everywhere it is used
+Ctrl+Shift+F,Search across all files in the workspace
+Ctrl+W,Close the active editor tab
+Ctrl+Shift+T,Reopen the last closed editor tab
+Ctrl+Tab,Cycle through open editor tabs
+Ctrl+Shift+D,Open the Run and Debug view
+Ctrl+K Ctrl+S,Open the keyboard shortcuts editor
+Ctrl+K Z,Enter zen mode (Esc Esc to leave)
+Alt+Z,Toggle word wrap
